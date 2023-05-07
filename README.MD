@@ -69,8 +69,7 @@ historical data.
 git clone https://github.com/guillaumedebavelaere/surge-fetch-history
 cd surge-fetch-history
 yarn install
-yarn generate
-yarn build 
+yarn generate 
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
